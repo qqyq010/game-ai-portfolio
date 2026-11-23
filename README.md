@@ -4,6 +4,8 @@
 
 [포트폴리오 PDF · 제작 이력, AI 협업, 게임 플레이 기록](portfolio.pdf)
 
+[2월부터 11월까지의 작업 이력](history.md) · [Codex 사용 방식의 변화](workflow/codex.md)
+
 ## 제작 참여 프로젝트
 
 | 게임 | 형태 | 담당 범위 |
@@ -21,3 +23,14 @@
 | [Star Rail Lab · 입력 조건이 바뀌면 결과도 바뀌는가](cases/star-rail-lab.md) | 보유 장비와 콘텐츠 조건을 비교 요건으로 다시 정리 | 구현 기록과 검사 사례 확인, 실게임 대조 미완료 |
 
 [게임 플레이 기록](play-experience.md)에는 시간이나 업적을 확인한 대표 게임을 정리했습니다. [자료와 권리 안내](THIRD_PARTY_NOTICES.md)
+
+## 산출물과 검증 기록
+
+| 자료 | 볼 수 있는 내용 |
+| --- | --- |
+| [Coin Survivor Play Mode 확인표](evidence/coin-survivor-playmode.md) | 판매부터 구매·합성까지 확인한 동작, 방어구 미확인 범위 |
+| [EscapeRoom 자동 검사 기록](evidence/escape-room-playmode.md) | SceneA 기본 실행, 입력 잠금과 실패 복구 확인 |
+| [Star Rail Lab 코드 발췌와 검사 범위](evidence/star-rail-implementation.md) | 입력 변경과 뒤늦은 응답을 처리한 코드, 모델 계산과 실게임 검증의 범위 |
+| [회의 전사와 팀 작업 기록](workflow/team-notes.md) | 전사에서 빠진 안건을 직접 보완하고 작업으로 연결한 과정 |
+| [검색 도구 검토 기록](workflow/search-review.md) | 고정 검사 결과, 채택·중단·미확인의 판단 근거 |
+| [Steam 플레이 시간이 표시된 162개 기록](play-library.md) | 기존 스냅샷에서 계정 링크를 제외하고 정리한 게임명과 시간 |

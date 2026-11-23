@@ -4,6 +4,10 @@
 
 [STOVE 출시 페이지](https://store.onstove.com/ko/games/105249) · [Steam 소개 페이지](https://store.steampowered.com/app/5034980/Coin_Survivor/)
 
+![Coin Survivor 상점과 인벤토리 화면](../artifacts/screens/coin-shop-and-inventory.jpg)
+
+[당시 Play Mode 확인표](../evidence/coin-survivor-playmode.md) · [조작 변경과 회의 기록](../workflow/team-notes.md)
+
 ## 판매한 무기가 전투에 남는 문제
 
 판매한 무기가 가방에서는 사라졌지만 전투에서 계속 공격했습니다. 같은 종류라도 레벨이 다른 무기가 남아 있어야 했기 때문에, 판매한 2레벨 무기만 제거되고 1레벨 무기는 유지되는 조건을 정했습니다.
