@@ -1,3 +1,5 @@
 # 게임 플레이 기록
 
-[플레이 경험과 Steam·온라인 게임 기록](play-experience/README.md)
+2026년 10월 초에는 Steam 라이브러리에 게임이 427개 있었습니다. 11월에 지원서를 쓸 때는 392개가 표시됐습니다.
+
+[즐겨 한 게임과 플레이 기록 보기](play-experience/README.md)
