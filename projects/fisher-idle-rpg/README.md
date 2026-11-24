@@ -16,4 +16,4 @@
 
 씬을 왕복한 뒤 없어야 할 가속권이 가방에 다시 보인 일을 계기로 저장값과 화면값을 따로 비교했습니다. [멀티플레이에서 돌아왔더니 가방이 달라졌다](bag-after-scene-change.md)
 
-[당시 확인한 값과 실행 범위](evidence/bag-state-checks.md) · [포트폴리오 첫 화면](../../README.md)
+[개당 가격과 총 판매가 안내를 바꾼 과정](sale-price-labels.md) · [당시 확인한 값과 실행 범위](evidence/bag-state-checks.md) · [포트폴리오 첫 화면](../../README.md)

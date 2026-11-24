@@ -4,7 +4,7 @@
 
 **출시작 Coin Survivor**
 
-[STOVE 출시](https://store.onstove.com/ko/games/105249) · [공식 영상](https://store.steampowered.com/app/5034980/Coin_Survivor/?l=koreana#game_highlights) · [포트폴리오 PDF](portfolio.pdf)
+[STOVE 출시](https://store.onstove.com/ko/games/105249) · [공식 영상](https://store.steampowered.com/app/5034980/Coin_Survivor/?l=koreana#game_highlights) · [이전 포트폴리오 PDF](portfolio.pdf)
 
 ## 제작에 참여한 게임
 
@@ -14,13 +14,13 @@
 
 ## 한 가지 사례부터 읽기
 
-- **기획** · [가방을 늘리면 무엇을 살 수 있을까](projects/coin-survivor/early-game-balance.md)
+- **기획 대표** · [가방 확장비와 다음 전투](projects/coin-survivor/early-game-balance.md)
 - **구현** · [실패 뒤 언제 입력을 돌려줄까](projects/escape-room/failure-and-retry.md)
 - **QA** · [씬을 왕복한 뒤 달라진 가방 표시](projects/fisher-idle-rpg/bag-after-scene-change.md)
 - **AI 협업** · [quality-pass로 수정 근거 확인하기](workflow/quality-pass/README.md)
 
 ## 더 볼 자료
 
-[게임 플레이와 와우 분석](play-experience/README.md) · [Star Rail Lab](game-tools/star-rail-lab/README.md) · [와우 드루이드 육성 가이드 검토](game-tools/wow-leveling-route.md)
+[게임 플레이와 와우 분석](play-experience/README.md) · [게임 도구와 검증 사례](game-tools/README.md)
 
 [2026년 2~11월 작업 이력](history.md) · [Codex 작업 방식의 변화](workflow/codex.md) · [팀 회의와 일정 조율](workflow/team-notes.md) · [Unity·C# 학습](workflow/learning.md)

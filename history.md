@@ -26,6 +26,6 @@ EscapeRoom의 별도 소스 복사본에서 시작 씬과 대표 복구를 자�
 
 ## 11월 · AI 작업을 나누는 방식과 검수 기준 다시 보기
 
-검토 역할을 나누고 같은 자료로 지침을 비교했습니다. 지원 자료 조사에서는 원문 대조가 기대만큼 늘지 않아 한 대화로 돌아갔습니다. 와우 레벨업 안내에서는 필수 직업 퀘스트와 선택 던전을 따로 볼 수 있게 요구를 구체화했습니다. [Codex 작업 방식](workflow/codex.md) · [quality-pass 사용법](workflow/quality-pass/README.md) · [와우 동선 안내](game-tools/wow-leveling-route.md)
+검토 역할을 나누고 같은 자료로 지침을 비교했습니다. 지원 자료 조사에서는 원문 대조가 기대만큼 늘지 않아 한 대화로 돌아갔습니다. 와우 레벨업 안내에서는 필수 직업 퀘스트와 선택 던전을 따로 볼 수 있게 요구를 구체화했습니다. [Codex 작업 방식](workflow/codex.md) · [quality-pass 사용법](workflow/quality-pass/README.md) · [게임 도구와 검증 사례](game-tools/README.md)
 
 [포트폴리오 첫 화면](README.md)

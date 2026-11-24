@@ -10,4 +10,4 @@
 
 아래 기록에는 두 상황의 실행 근거가 각각 남아 있습니다. 제가 맡은 클라이언트 화면과 사용자 관찰을 중심으로 정리했고, 저장 경로까지 확인한 부분은 팀이 함께 조사한 결과입니다.
 
-[두 상황에서 실제로 확인한 것](evidence/bag-state-checks.md) · [Fisher Idle RPG 소개](README.md)
+[가방 판매에서 개당 가격과 총액을 구분한 일](sale-price-labels.md) · [두 상황에서 실제로 확인한 것](evidence/bag-state-checks.md) · [Fisher Idle RPG 소개](README.md)

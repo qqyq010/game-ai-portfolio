@@ -36,4 +36,4 @@ private IEnumerator HandleFailureRoutine(FailureReason reason, Transform source)
 }
 ```
 
-이 메서드를 실행하려면 Unity 씬의 인스펙터 설정과 프로젝트의 입력 제어기가 필요합니다. 당시 영상, C# 소스 발췌, 8월의 별도 자동 검사는 서로 다른 근거입니다. [실패 후 이어 하기 사례](../failure-and-retry.md) · [자동 검사에서 확인한 범위](../evidence/play-mode-checks.md)
+이 메서드를 실행하려면 Unity 씬의 인스펙터 설정과 프로젝트의 입력 제어기가 필요합니다. 시작 씬에는 감지와 보물 실패를 체크포인트 복귀로, 일반 퍼즐 실패를 입력만 반환하는 흐름으로 설정했습니다. 당시 영상, C# 소스 발췌, 8월의 별도 자동 검사는 서로 다른 근거입니다. [실패 후 이어 하기 사례](../failure-and-retry.md) · [자동 검사에서 확인한 범위](../evidence/play-mode-checks.md)

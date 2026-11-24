@@ -10,4 +10,4 @@
 
 지금 공개한 사례는 지정 파티의 한 캐릭터 장비 비교입니다. [코드 발췌](code/rotation-input-excerpt.jsx)에 입력 변경과 응답 구분이 있습니다. 화면 피해량은 모델 계산값이고, 실제 게임 측정으로 대조하는 일과 보유 자원 기반의 여러 파티 비교는 추가 작업으로 남았습니다.
 
-[실제 확인한 근거](evidence/rotation-workbench.md) · [Star Rail Lab 소개](README.md)
+[32개 후보를 표시한 브라우저·API 실행 기록](evidence/rotation-workbench.md) · [Star Rail Lab 소개](README.md)
